@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![HomePage](https://github.com/Antonate-96/Lets-Eat/blob/master/pic/HomePage.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
