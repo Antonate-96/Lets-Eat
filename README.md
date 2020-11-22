@@ -1,8 +1,14 @@
 # foodapp
+A Flutter Food App
 
-A new Flutter project.
+# HomePage
+![HomePage](https://github.com/Antonate-96/Lets-Eat/blob/master/pic/HomePage.jpg) 
 
-![HomePage](https://github.com/Antonate-96/Lets-Eat/blob/master/pic/HomePage.jpg) ![DetailPage](https://github.com/Antonate-96/Lets-Eat/blob/master/pic/DetailPage.jpg) ![MenuPage](https://github.com/Antonate-96/Lets-Eat/blob/master/pic/MenuPage.jpg)
+# DetailPage
+![DetailPage](https://github.com/Antonate-96/Lets-Eat/blob/master/pic/DetailPage.jpg)
+
+# MenuPage
+![MenuPage](https://github.com/Antonate-96/Lets-Eat/blob/master/pic/MenuPage.jpg)
 
 ## Getting Started
 
