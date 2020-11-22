@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![HomePage](https://github.com/Antonate-96/Lets-Eat/blob/master/pic/HomePage.jpg) ![DetailPage](https://github.com/Antonate-96/Lets-Eat/blob/master/pic/DetailPage.jpg)
+![HomePage](https://github.com/Antonate-96/Lets-Eat/blob/master/pic/HomePage.jpg) ![DetailPage](https://github.com/Antonate-96/Lets-Eat/blob/master/pic/DetailPage.jpg) ![MenuPage](https://github.com/Antonate-96/Lets-Eat/blob/master/pic/MenuPage.jpg)
 
 ## Getting Started
 
